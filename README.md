@@ -1,8 +1,8 @@
-# SerbReWords — политика конфиденциальности
+# SerbLeWords — политика конфиденциальности
 
-*Действует с 7 ноября 2026 г.* · [English version below](#serbrewords--privacy-policy)
+*Действует с 7 ноября 2026 г.* · [English version below](#serblewords--privacy-policy)
 
-SerbReWords (`me.oxip.serbrewords`) — карточки для заучивания сербских слов.
+SerbLeWords — карточки для заучивания сербских слов.
 
 ## Коротко
 
@@ -57,11 +57,11 @@ oxip.dev@gmail.com
 
 ---
 
-# SerbReWords — Privacy Policy
+# SerbLeWords — Privacy Policy
 
 *Effective November 7, 2026*
 
-SerbReWords (`me.oxip.serbrewords`) is a flashcard app for learning Serbian words.
+SerbLeWords is a flashcard app for learning Serbian words.
 
 ## In short
 
